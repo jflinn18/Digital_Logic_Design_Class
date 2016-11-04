@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "X:/CS373-1/SimpleNandGate/NandGate.xst" -ofn "X:/CS373-1/SimpleNandGate/NandGate.syr" 
+xst -intstyle ise -ifn "X:/CS373-1/SimpleNandGate/NandGate.xst" -ofn "X:/CS373-1/SimpleNandGate/NandGate.syr" 

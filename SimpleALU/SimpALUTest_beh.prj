@@ -1,0 +1,2 @@
+vhdl work "SimpALU.vhd"
+vhdl work "SimpALUTest.vhd"

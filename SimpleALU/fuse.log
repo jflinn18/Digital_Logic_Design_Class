@@ -1,0 +1,18 @@
+Running: C:\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o X:/CS373-1/SimpleALU/SimpALUTest_isim_beh.exe -prj X:/CS373-1/SimpleALU/SimpALUTest_beh.prj work.SimpALUTest 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "X:/CS373-1/SimpleALU/SimpALU.vhd" into library work
+Parsing VHDL file "X:/CS373-1/SimpleALU/SimpALUTest.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture behavioral of entity SimpALU [simpalu_default]
+Compiling architecture behavior of entity simpalutest
+Time Resolution for simulation is 1ps.
+Compiled 5 VHDL Units
+Built simulation executable X:/CS373-1/SimpleALU/SimpALUTest_isim_beh.exe
+Fuse Memory Usage: 30104 KB
+Fuse CPU Usage: 296 ms

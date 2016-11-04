@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "X:/CS373-1/SimpleALU/SimpALUTest_isim_beh.exe" -prj "X:/CS373-1/SimpleALU/SimpALUTest_beh.prj" "work.SimpALUTest" 

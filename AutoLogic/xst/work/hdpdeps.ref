@@ -1,0 +1,10 @@
+V3 9
+FL //cs1/2018/jflinn18/CS373-1/AutoLogic/AutoLogic.vhf 2016/10/26.09:23:05 P.20131013
+EN work/AutoLogic 1477512003 \
+      FL //cs1/2018/jflinn18/CS373-1/AutoLogic/AutoLogic.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/AutoLogic/BEHAVIORAL 1477512004 \
+      FL //cs1/2018/jflinn18/CS373-1/AutoLogic/AutoLogic.vhf EN work/AutoLogic 1477512003 \
+      CP AND2 CP OR2 CP INV CP BUF
+FL //CS1/students/2018/jflinn18/CS373-1/AutoLogic/AutoLogic.vhf 2016/10/26.09:23:05 P.20131013

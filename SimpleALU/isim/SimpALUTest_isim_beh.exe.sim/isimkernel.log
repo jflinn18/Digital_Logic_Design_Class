@@ -1,0 +1,29 @@
+Command line:
+   SimpALUTest_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  3750
+
+Fri Nov 04 10:04:00 2016
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 846.672 Meg
+
+ Total Signals          : 14
+ Total Nets             : 28
+ Total Signal Drivers   : 7
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 6
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 388
+Total Line Count : 12
+
+ Total Simulation Time: 0.09375 sec
+
+ Current Memory Usage: 1161.24 Meg
+
+Fri Nov 04 10:04:45 2016
+

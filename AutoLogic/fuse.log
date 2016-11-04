@@ -1,0 +1,22 @@
+Running: C:\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o Z:/jflinn18/CS373-1/AutoLogic/AutoLogic_isim_beh.exe -prj Z:/jflinn18/CS373-1/AutoLogic/AutoLogic_beh.prj work.AutoLogic 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "Z:/jflinn18/CS373-1/AutoLogic/AutoTest.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package vcomponents
+Compiling architecture and2_v of entity AND2 [and2_default]
+Compiling architecture or2_v of entity OR2 [or2_default]
+Compiling architecture inv_v of entity INV [inv_default]
+Compiling architecture buf_v of entity BUF [buf_default]
+Compiling architecture behavioral of entity autologic
+Time Resolution for simulation is 1ps.
+Compiled 13 VHDL Units
+Built simulation executable Z:/jflinn18/CS373-1/AutoLogic/AutoLogic_isim_beh.exe
+Fuse Memory Usage: 50728 KB
+Fuse CPU Usage: 500 ms

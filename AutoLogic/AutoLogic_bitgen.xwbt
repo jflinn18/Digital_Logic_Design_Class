@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=Z:\jflinn18\CS373-1\AutoLogic\AutoLogic.ncd
+OUTFILE=Z:\jflinn18\CS373-1\AutoLogic\AutoLogic.bit
+FAMILY=Spartan3
+PART=xc3s1000-4ft256
+WORKINGDIR=Z:\jflinn18\CS373-1\AutoLogic
+LICENSE=WebPack
+USER_INFO=177065750_177065752_0_914

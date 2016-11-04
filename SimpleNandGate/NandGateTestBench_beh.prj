@@ -1,0 +1,2 @@
+vhdl work "NandGate.vhd"
+vhdl work "NandGateTestBench.vhd"

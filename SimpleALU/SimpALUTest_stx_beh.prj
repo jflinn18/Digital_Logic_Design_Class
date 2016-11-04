@@ -1,0 +1,2 @@
+vhdl isim_temp "SimpALU.vhd"
+vhdl isim_temp "SimpALUTest.vhd"

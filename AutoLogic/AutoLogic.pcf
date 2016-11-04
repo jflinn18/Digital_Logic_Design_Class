@@ -1,0 +1,11 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Wed Oct 26 13:00:22 2016
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "Buzzer" LOCATE = SITE "M6" LEVEL 1;
+COMP "Door" LOCATE = SITE "E11" LEVEL 1;
+COMP "Seatbelt" LOCATE = SITE "A13" LEVEL 1;
+COMP "Ignition" LOCATE = SITE "K2" LEVEL 1;
+SCHEMATIC END;
+

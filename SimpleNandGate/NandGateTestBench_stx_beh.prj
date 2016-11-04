@@ -1,0 +1,2 @@
+vhdl isim_temp "NandGate.vhd"
+vhdl isim_temp "NandGateTestBench.vhd"

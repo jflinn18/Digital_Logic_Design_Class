@@ -1,0 +1,29 @@
+Command line:
+   AutoLogic_AutoLogic_sch_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  6862
+
+Wed Oct 26 09:46:49 2016
+
+
+ Elaboration Time: 0.03125 sec
+
+ Current Memory Usage: 842.621 Meg
+
+ Total Signals          : 62
+ Total Nets             : 37
+ Total Signal Drivers   : 12
+ Total Blocks           : 14
+ Total Primitive Blocks : 12
+ Total Processes        : 10
+ Total Traceable Variables  : 13
+ Total Scalar Nets and Variables : 520
+Total Line Count : 23
+
+ Total Simulation Time: 0.03125 sec
+
+ Current Memory Usage: 685.335 Meg
+
+Wed Oct 26 09:48:16 2016
+
